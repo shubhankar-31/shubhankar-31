@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shubhankar.
 - 👀 I’m interested in learning Backend Technologies.
-- 🌱 I’m currently learning Django and Express.js 
-- 📫 Send me an email at shubhankar.sharma97@gmail.com if you want to reach me.
+- 🌱 I’m currently learning Node.js and System Design
+- 📫 You can reach out to me at shubhankar.sharma97@gmail.com.
 
 <!---
 shubhankar-31/shubhankar-31 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
